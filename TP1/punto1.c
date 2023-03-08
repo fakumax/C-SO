@@ -9,3 +9,8 @@ Consideraciones:
 - No se puede utilizar la llamada al sistema system(). 
 
 */
+#include <stdio.h>
+
+int main(){
+    printf("wara wara");
+}
